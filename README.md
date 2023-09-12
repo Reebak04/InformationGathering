@@ -31,15 +31,15 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![nmap](https://github.com/Reebak04/InformationGathering/assets/118364993/59fb81bd-00af-4ccd-a998-30e59ef82a74)
 ## whatweb :
 ![ww](https://github.com/Reebak04/InformationGathering/assets/118364993/0e6e7c8d-ab24-4322-a8d7-38b003bd8eeb)
-#httprint :
+## httprint :
 ![hp](https://github.com/Reebak04/InformationGathering/assets/118364993/440be1c6-b34f-4084-ae55-801c5d4cd123)
-ping command :
+## ping command :
 ![ping](https://github.com/Reebak04/InformationGathering/assets/118364993/8ab8e8fe-558c-4951-9715-88e2d37252e7)
-ICMP traceroute :
+## ICMP traceroute :
 ![tr1](https://github.com/Reebak04/InformationGathering/assets/118364993/ab5a25f4-be3a-4e60-ab2d-39717d9e126e)
-TCP traceroute :
+## TCP traceroute :
 ![trtcp](https://github.com/Reebak04/InformationGathering/assets/118364993/1462bf8d-f5b5-45ee-a845-1b7e5a2a5fcd)
-UDP traceroute :
+## UDP traceroute :
 ![trudp](https://github.com/Reebak04/InformationGathering/assets/118364993/4cda35dd-5e10-465b-9507-ac49ddf5022a)
 
 
