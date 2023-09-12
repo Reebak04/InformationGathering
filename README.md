@@ -22,6 +22,16 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+## Finding Hosting Company :
+![image](https://github.com/Reebak04/InformationGathering/assets/118364993/90d1a4b1-7c61-409b-988e-86a2def2e2d6)
+## History of the website :
+![image](https://github.com/Reebak04/InformationGathering/assets/118364993/cceb386f-2da9-48fb-8a1b-b0376f43c776)
+
+Following Categories of pen test tools are identified for information gathering: 
+
+## webserver Footprinting :
+Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
+
 ## whois :
 ![wi1](https://github.com/Reebak04/InformationGathering/assets/118364993/61aca188-1458-4cd6-abc9-4611d0507241)
 ![wi2](https://github.com/Reebak04/InformationGathering/assets/118364993/9b4dd80f-2112-426d-b154-0be571946ce2)
