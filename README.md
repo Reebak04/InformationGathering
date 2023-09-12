@@ -27,7 +27,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## History of the website :
 ![image](https://github.com/Reebak04/InformationGathering/assets/118364993/cceb386f-2da9-48fb-8a1b-b0376f43c776)
 
-Following Categories of pen test tools are identified for information gathering: 
+## Following Categories of pen test tools are identified for information gathering: 
 
 ## webserver Footprinting :
 Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
